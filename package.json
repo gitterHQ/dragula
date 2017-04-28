@@ -1,6 +1,6 @@
 {
   "name": "@gitterhq/dragula",
-  "version": "3.7.0",
+  "version": "3.7.0-a",
   "description": "Drag and drop so simple it hurts",
   "main": "dragula.js",
   "scripts": {
